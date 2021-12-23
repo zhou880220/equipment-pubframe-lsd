@@ -5,7 +5,7 @@
     <style name="AppThemeTwo" parent="AppTheme">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/tv_progress</item>
-        <item name="android:background">@mipmap/lsp_bg</item>
+        <item name="android:background">@mipmap/lsd_loading</item>
         <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

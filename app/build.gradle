@@ -23,7 +23,7 @@ android {
     android.applicationVariants.all {
         variant ->
             variant.outputs.all {
-                outputFileName = "equipment-pubframe-${defaultConfig.versionName}-${releaseTime()}.apk"
+                outputFileName = "honeycomb-pubframe-${defaultConfig.versionName}-${releaseTime()}.apk"
             }
     }
 

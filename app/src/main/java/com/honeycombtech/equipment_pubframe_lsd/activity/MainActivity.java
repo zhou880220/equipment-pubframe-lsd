@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
     /*****************prams******************/
     private final String TAG = "MainActivity";
     //调试  http://172.16.23.34:3001
-    private String content_url = "http://fgk8sequipment.zhizaoyun.com:30010/equipment/lsd/login?r="+new Date().getTime(); //"http://119.45.19.115/";//https://mestest-lsd.zhizaoyun.com:30443/
+    private String content_url = "https://mestest-lsd.zhizaoyun.com:30443/login?r="+new Date().getTime();
 
     //生产环境
 //    private String content_url = "http://indapp-lsd.zhizaoyun.com/login?r="+new Date().getTime();
