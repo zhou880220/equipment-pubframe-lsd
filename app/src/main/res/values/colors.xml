@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f6d99</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorLoding">#0079EF</color>
+    <color name="colorError">#FFFFFF</color>
+    <color name="tv_bg">#1d2941</color>
+    <color name="tv_progress">#008577</color>
+
+    <color name="status_layout_manager_tip_text_color">#BFBFBF</color>
+</resources>
